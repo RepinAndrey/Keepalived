@@ -10,7 +10,7 @@
 *Для проверки корректности настройки, разорвите один из кабелей между одним из маршрутизаторов и Switch0 и запустите ping между PC0 и Server0.
 *На проверку отправьте получившуюся схему в формате pkt и скриншот, где виден процесс настройки маршрутизатора.
 ![скриншот ](https://github.com/RepinAndrey/keepalived/blob/main/img/keepalived1.png)
-[Ссылка](https://github.com/RepinAndrey/keepalived/blob/main/img/hsrp_advanced.pkt)
+[Ссылка](https://github.com/RepinAndrey/keepalived/blob/main/hsrp_advanced.pkt)
 
 ### Задание 2
 *Запустите две виртуальные машины Linux, установите и настройте сервис Keepalived как в лекции, используя пример конфигурационного файла.
